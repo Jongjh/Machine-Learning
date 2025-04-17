@@ -169,3 +169,38 @@ print(f"RMSE: {rmse:.2f} gwh")
 print(f"MAPE: {mape:.2f}%")
 print(f"WMAPE: {wmape:.2f}%")
 print(f"Bias: {bias:.2f}%")
+
+### Forecasting demand till 2030
+
+# Initialize and fit model
+# 95% confidence interval
+model = Prophet(
+    growth='linear',
+    yearly_seasonality=True,
+    seasonality_mode='multiplicative',
+    interval_width=0.95  
+    )
+
+# For the forecast till 2030, I will be using the dataset with outliers removed (refer to readme for explanation)
+model.fit(df_filter)
+
+# Calculate number of months needed to forecast until end of 2030
+last_date = df_filter['ds'].max()
+end_date = pd.to_datetime('2030-12-31')
+forecast_months = (end_date.year - last_date.year) * 12 + (end_date.month - last_date.month)
+
+# Create future dataframe
+future_c = model.make_future_dataframe(
+    periods=forecast_months,
+    freq='ME',
+    include_history=True
+)
+
+# Generate forecast
+forecast_c = model.predict(future_c)
+
+fig1 = model.plot(forecast_c)
+plt.title('Monthly Demand Forecast - Till 2030')
+plt.xlabel('Date')
+plt.ylabel('Demand')
+plt.show()
