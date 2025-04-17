@@ -1,0 +1,1373 @@
+month,housing_type,dwelling_type,tg_consumption_gwh
+2005-01,Public Housing,1-Room / 2-Room,1.1
+2005-01,Public Housing,3-Room,6.6
+2005-01,Public Housing,4-Room,16
+2005-01,Public Housing,5-Room and Executive,17.4
+2005-01,Private Housing,Private Apartments and Condominiums,5.9
+2005-01,Private Housing,Landed Properties,1
+2005-01,Others,Others,0.6
+2005-02,Public Housing,1-Room / 2-Room,1.1
+2005-02,Public Housing,3-Room,6.5
+2005-02,Public Housing,4-Room,15.8
+2005-02,Public Housing,5-Room and Executive,17.2
+2005-02,Private Housing,Private Apartments and Condominiums,6
+2005-02,Private Housing,Landed Properties,1
+2005-02,Others,Others,0.6
+2005-03,Public Housing,1-Room / 2-Room,1
+2005-03,Public Housing,3-Room,6.5
+2005-03,Public Housing,4-Room,15.9
+2005-03,Public Housing,5-Room and Executive,17.5
+2005-03,Private Housing,Private Apartments and Condominiums,5.9
+2005-03,Private Housing,Landed Properties,1
+2005-03,Others,Others,0.5
+2005-04,Public Housing,1-Room / 2-Room,1.1
+2005-04,Public Housing,3-Room,6.6
+2005-04,Public Housing,4-Room,16.1
+2005-04,Public Housing,5-Room and Executive,17.7
+2005-04,Private Housing,Private Apartments and Condominiums,6.1
+2005-04,Private Housing,Landed Properties,1
+2005-04,Others,Others,0.5
+2005-05,Public Housing,1-Room / 2-Room,1
+2005-05,Public Housing,3-Room,6.2
+2005-05,Public Housing,4-Room,15.6
+2005-05,Public Housing,5-Room and Executive,17.1
+2005-05,Private Housing,Private Apartments and Condominiums,5.9
+2005-05,Private Housing,Landed Properties,0.9
+2005-05,Others,Others,0.5
+2005-06,Public Housing,1-Room / 2-Room,1
+2005-06,Public Housing,3-Room,6.3
+2005-06,Public Housing,4-Room,15.7
+2005-06,Public Housing,5-Room and Executive,17.1
+2005-06,Private Housing,Private Apartments and Condominiums,5.9
+2005-06,Private Housing,Landed Properties,0.9
+2005-06,Others,Others,0.5
+2005-07,Public Housing,1-Room / 2-Room,1
+2005-07,Public Housing,3-Room,6.1
+2005-07,Public Housing,4-Room,15.4
+2005-07,Public Housing,5-Room and Executive,16.8
+2005-07,Private Housing,Private Apartments and Condominiums,5.7
+2005-07,Private Housing,Landed Properties,0.9
+2005-07,Others,Others,0.5
+2005-08,Public Housing,1-Room / 2-Room,1
+2005-08,Public Housing,3-Room,6.4
+2005-08,Public Housing,4-Room,15.9
+2005-08,Public Housing,5-Room and Executive,17.4
+2005-08,Private Housing,Private Apartments and Condominiums,6.1
+2005-08,Private Housing,Landed Properties,0.9
+2005-08,Others,Others,0.6
+2005-09,Public Housing,1-Room / 2-Room,1
+2005-09,Public Housing,3-Room,6.3
+2005-09,Public Housing,4-Room,16.1
+2005-09,Public Housing,5-Room and Executive,17.6
+2005-09,Private Housing,Private Apartments and Condominiums,6.4
+2005-09,Private Housing,Landed Properties,1
+2005-09,Others,Others,0.6
+2005-10,Public Housing,1-Room / 2-Room,1
+2005-10,Public Housing,3-Room,6.2
+2005-10,Public Housing,4-Room,15.8
+2005-10,Public Housing,5-Room and Executive,17.4
+2005-10,Private Housing,Private Apartments and Condominiums,6.2
+2005-10,Private Housing,Landed Properties,0.9
+2005-10,Others,Others,0.6
+2005-11,Public Housing,1-Room / 2-Room,1
+2005-11,Public Housing,3-Room,6.3
+2005-11,Public Housing,4-Room,16.3
+2005-11,Public Housing,5-Room and Executive,17.7
+2005-11,Private Housing,Private Apartments and Condominiums,6.4
+2005-11,Private Housing,Landed Properties,0.9
+2005-11,Others,Others,0.6
+2005-12,Public Housing,1-Room / 2-Room,1
+2005-12,Public Housing,3-Room,6
+2005-12,Public Housing,4-Room,15.3
+2005-12,Public Housing,5-Room and Executive,16.6
+2005-12,Private Housing,Private Apartments and Condominiums,6
+2005-12,Private Housing,Landed Properties,0.9
+2005-12,Others,Others,0.6
+2006-01,Public Housing,1-Room / 2-Room,1
+2006-01,Public Housing,3-Room,6
+2006-01,Public Housing,4-Room,15.4
+2006-01,Public Housing,5-Room and Executive,16.7
+2006-01,Private Housing,Private Apartments and Condominiums,6.2
+2006-01,Private Housing,Landed Properties,0.9
+2006-01,Others,Others,0.6
+2006-02,Public Housing,1-Room / 2-Room,1
+2006-02,Public Housing,3-Room,6.3
+2006-02,Public Housing,4-Room,15.7
+2006-02,Public Housing,5-Room and Executive,17.2
+2006-02,Private Housing,Private Apartments and Condominiums,6.7
+2006-02,Private Housing,Landed Properties,1
+2006-02,Others,Others,0.7
+2006-03,Public Housing,1-Room / 2-Room,1
+2006-03,Public Housing,3-Room,6.4
+2006-03,Public Housing,4-Room,16.1
+2006-03,Public Housing,5-Room and Executive,17.7
+2006-03,Private Housing,Private Apartments and Condominiums,6.7
+2006-03,Private Housing,Landed Properties,0.9
+2006-03,Others,Others,0.6
+2006-04,Public Housing,1-Room / 2-Room,1
+2006-04,Public Housing,3-Room,6.2
+2006-04,Public Housing,4-Room,15.7
+2006-04,Public Housing,5-Room and Executive,17.3
+2006-04,Private Housing,Private Apartments and Condominiums,6.5
+2006-04,Private Housing,Landed Properties,0.9
+2006-04,Others,Others,0.7
+2006-05,Public Housing,1-Room / 2-Room,1
+2006-05,Public Housing,3-Room,6
+2006-05,Public Housing,4-Room,15.2
+2006-05,Public Housing,5-Room and Executive,16.7
+2006-05,Private Housing,Private Apartments and Condominiums,6.5
+2006-05,Private Housing,Landed Properties,0.9
+2006-05,Others,Others,0.7
+2006-06,Public Housing,1-Room / 2-Room,1
+2006-06,Public Housing,3-Room,6.2
+2006-06,Public Housing,4-Room,15.8
+2006-06,Public Housing,5-Room and Executive,17.3
+2006-06,Private Housing,Private Apartments and Condominiums,6.7
+2006-06,Private Housing,Landed Properties,0.9
+2006-06,Others,Others,0.8
+2006-07,Public Housing,1-Room / 2-Room,1
+2006-07,Public Housing,3-Room,5.9
+2006-07,Public Housing,4-Room,15.2
+2006-07,Public Housing,5-Room and Executive,16.7
+2006-07,Private Housing,Private Apartments and Condominiums,6.3
+2006-07,Private Housing,Landed Properties,0.9
+2006-07,Others,Others,0.8
+2006-08,Public Housing,1-Room / 2-Room,1
+2006-08,Public Housing,3-Room,6.2
+2006-08,Public Housing,4-Room,16.1
+2006-08,Public Housing,5-Room and Executive,17.7
+2006-08,Private Housing,Private Apartments and Condominiums,6.8
+2006-08,Private Housing,Landed Properties,0.9
+2006-08,Others,Others,1
+2006-09,Public Housing,1-Room / 2-Room,1
+2006-09,Public Housing,3-Room,6.4
+2006-09,Public Housing,4-Room,16.5
+2006-09,Public Housing,5-Room and Executive,18.1
+2006-09,Private Housing,Private Apartments and Condominiums,7
+2006-09,Private Housing,Landed Properties,0.9
+2006-09,Others,Others,0.9
+2006-10,Public Housing,1-Room / 2-Room,1
+2006-10,Public Housing,3-Room,6.2
+2006-10,Public Housing,4-Room,16.1
+2006-10,Public Housing,5-Room and Executive,17.7
+2006-10,Private Housing,Private Apartments and Condominiums,6.9
+2006-10,Private Housing,Landed Properties,0.9
+2006-10,Others,Others,1
+2006-11,Public Housing,1-Room / 2-Room,1
+2006-11,Public Housing,3-Room,6.3
+2006-11,Public Housing,4-Room,16.5
+2006-11,Public Housing,5-Room and Executive,18.1
+2006-11,Private Housing,Private Apartments and Condominiums,7
+2006-11,Private Housing,Landed Properties,0.9
+2006-11,Others,Others,1
+2006-12,Public Housing,1-Room / 2-Room,1
+2006-12,Public Housing,3-Room,6
+2006-12,Public Housing,4-Room,15.5
+2006-12,Public Housing,5-Room and Executive,16.8
+2006-12,Private Housing,Private Apartments and Condominiums,6.6
+2006-12,Private Housing,Landed Properties,0.9
+2006-12,Others,Others,1
+2007-01,Public Housing,1-Room / 2-Room,1
+2007-01,Public Housing,3-Room,6.2
+2007-01,Public Housing,4-Room,15.9
+2007-01,Public Housing,5-Room and Executive,17.3
+2007-01,Private Housing,Private Apartments and Condominiums,7.1
+2007-01,Private Housing,Landed Properties,0.9
+2007-01,Others,Others,1.1
+2007-02,Public Housing,1-Room / 2-Room,1.1
+2007-02,Public Housing,3-Room,6.3
+2007-02,Public Housing,4-Room,16
+2007-02,Public Housing,5-Room and Executive,17.5
+2007-02,Private Housing,Private Apartments and Condominiums,7.3
+2007-02,Private Housing,Landed Properties,0.9
+2007-02,Others,Others,1.1
+2007-03,Public Housing,1-Room / 2-Room,1
+2007-03,Public Housing,3-Room,6.1
+2007-03,Public Housing,4-Room,15.9
+2007-03,Public Housing,5-Room and Executive,17.6
+2007-03,Private Housing,Private Apartments and Condominiums,7.2
+2007-03,Private Housing,Landed Properties,0.9
+2007-03,Others,Others,1
+2007-04,Public Housing,1-Room / 2-Room,1
+2007-04,Public Housing,3-Room,6.3
+2007-04,Public Housing,4-Room,16.3
+2007-04,Public Housing,5-Room and Executive,17.8
+2007-04,Private Housing,Private Apartments and Condominiums,7.2
+2007-04,Private Housing,Landed Properties,0.9
+2007-04,Others,Others,1
+2007-05,Public Housing,1-Room / 2-Room,1
+2007-05,Public Housing,3-Room,6
+2007-05,Public Housing,4-Room,15.8
+2007-05,Public Housing,5-Room and Executive,17.4
+2007-05,Private Housing,Private Apartments and Condominiums,7.2
+2007-05,Private Housing,Landed Properties,0.9
+2007-05,Others,Others,1.1
+2007-06,Public Housing,1-Room / 2-Room,1
+2007-06,Public Housing,3-Room,6
+2007-06,Public Housing,4-Room,15.5
+2007-06,Public Housing,5-Room and Executive,17
+2007-06,Private Housing,Private Apartments and Condominiums,6.9
+2007-06,Private Housing,Landed Properties,0.9
+2007-06,Others,Others,1
+2007-07,Public Housing,1-Room / 2-Room,1
+2007-07,Public Housing,3-Room,5.9
+2007-07,Public Housing,4-Room,15.4
+2007-07,Public Housing,5-Room and Executive,16.8
+2007-07,Private Housing,Private Apartments and Condominiums,6.7
+2007-07,Private Housing,Landed Properties,0.9
+2007-07,Others,Others,1.1
+2007-08,Public Housing,1-Room / 2-Room,1
+2007-08,Public Housing,3-Room,6.1
+2007-08,Public Housing,4-Room,16
+2007-08,Public Housing,5-Room and Executive,17.6
+2007-08,Private Housing,Private Apartments and Condominiums,7.1
+2007-08,Private Housing,Landed Properties,0.9
+2007-08,Others,Others,1.3
+2007-09,Public Housing,1-Room / 2-Room,1.1
+2007-09,Public Housing,3-Room,6.2
+2007-09,Public Housing,4-Room,16.4
+2007-09,Public Housing,5-Room and Executive,18
+2007-09,Private Housing,Private Apartments and Condominiums,7.5
+2007-09,Private Housing,Landed Properties,0.9
+2007-09,Others,Others,1.2
+2007-10,Public Housing,1-Room / 2-Room,1
+2007-10,Public Housing,3-Room,6.1
+2007-10,Public Housing,4-Room,16.5
+2007-10,Public Housing,5-Room and Executive,18.2
+2007-10,Private Housing,Private Apartments and Condominiums,7.4
+2007-10,Private Housing,Landed Properties,0.9
+2007-10,Others,Others,1.3
+2007-11,Public Housing,1-Room / 2-Room,1.1
+2007-11,Public Housing,3-Room,6.4
+2007-11,Public Housing,4-Room,16.8
+2007-11,Public Housing,5-Room and Executive,18.5
+2007-11,Private Housing,Private Apartments and Condominiums,7.4
+2007-11,Private Housing,Landed Properties,0.9
+2007-11,Others,Others,1.2
+2007-12,Public Housing,1-Room / 2-Room,1
+2007-12,Public Housing,3-Room,6
+2007-12,Public Housing,4-Room,15.6
+2007-12,Public Housing,5-Room and Executive,17
+2007-12,Private Housing,Private Apartments and Condominiums,7
+2007-12,Private Housing,Landed Properties,0.9
+2007-12,Others,Others,1.3
+2008-01,Public Housing,1-Room / 2-Room,1.1
+2008-01,Public Housing,3-Room,6.1
+2008-01,Public Housing,4-Room,15.9
+2008-01,Public Housing,5-Room and Executive,17.3
+2008-01,Private Housing,Private Apartments and Condominiums,7.3
+2008-01,Private Housing,Landed Properties,0.9
+2008-01,Others,Others,1.3
+2008-02,Public Housing,1-Room / 2-Room,1.1
+2008-02,Public Housing,3-Room,6.3
+2008-02,Public Housing,4-Room,16.6
+2008-02,Public Housing,5-Room and Executive,18.2
+2008-02,Private Housing,Private Apartments and Condominiums,7.7
+2008-02,Private Housing,Landed Properties,1
+2008-02,Others,Others,1.4
+2008-03,Public Housing,1-Room / 2-Room,1
+2008-03,Public Housing,3-Room,6.2
+2008-03,Public Housing,4-Room,16.1
+2008-03,Public Housing,5-Room and Executive,17.9
+2008-03,Private Housing,Private Apartments and Condominiums,7.5
+2008-03,Private Housing,Landed Properties,0.9
+2008-03,Others,Others,1.2
+2008-04,Public Housing,1-Room / 2-Room,1.1
+2008-04,Public Housing,3-Room,6.4
+2008-04,Public Housing,4-Room,16.9
+2008-04,Public Housing,5-Room and Executive,18.7
+2008-04,Private Housing,Private Apartments and Condominiums,7.8
+2008-04,Private Housing,Landed Properties,0.9
+2008-04,Others,Others,1.3
+2008-05,Public Housing,1-Room / 2-Room,1.1
+2008-05,Public Housing,3-Room,6.3
+2008-05,Public Housing,4-Room,16.7
+2008-05,Public Housing,5-Room and Executive,18.4
+2008-05,Private Housing,Private Apartments and Condominiums,7.5
+2008-05,Private Housing,Landed Properties,0.9
+2008-05,Others,Others,1.3
+2008-06,Public Housing,1-Room / 2-Room,1
+2008-06,Public Housing,3-Room,6
+2008-06,Public Housing,4-Room,15.6
+2008-06,Public Housing,5-Room and Executive,17
+2008-06,Private Housing,Private Apartments and Condominiums,7.1
+2008-06,Private Housing,Landed Properties,0.9
+2008-06,Others,Others,1.2
+2008-07,Public Housing,1-Room / 2-Room,1
+2008-07,Public Housing,3-Room,6.1
+2008-07,Public Housing,4-Room,16.3
+2008-07,Public Housing,5-Room and Executive,17.9
+2008-07,Private Housing,Private Apartments and Condominiums,7.2
+2008-07,Private Housing,Landed Properties,0.9
+2008-07,Others,Others,1.3
+2008-08,Public Housing,1-Room / 2-Room,1.1
+2008-08,Public Housing,3-Room,6.1
+2008-08,Public Housing,4-Room,16.4
+2008-08,Public Housing,5-Room and Executive,18
+2008-08,Private Housing,Private Apartments and Condominiums,7.5
+2008-08,Private Housing,Landed Properties,0.9
+2008-08,Others,Others,1.2
+2008-09,Public Housing,1-Room / 2-Room,1.1
+2008-09,Public Housing,3-Room,6.5
+2008-09,Public Housing,4-Room,17.6
+2008-09,Public Housing,5-Room and Executive,19.3
+2008-09,Private Housing,Private Apartments and Condominiums,8
+2008-09,Private Housing,Landed Properties,0.9
+2008-09,Others,Others,1.4
+2008-10,Public Housing,1-Room / 2-Room,1.1
+2008-10,Public Housing,3-Room,6.3
+2008-10,Public Housing,4-Room,17.4
+2008-10,Public Housing,5-Room and Executive,19.2
+2008-10,Private Housing,Private Apartments and Condominiums,7.9
+2008-10,Private Housing,Landed Properties,0.9
+2008-10,Others,Others,1.3
+2008-11,Public Housing,1-Room / 2-Room,1.1
+2008-11,Public Housing,3-Room,6.3
+2008-11,Public Housing,4-Room,17.2
+2008-11,Public Housing,5-Room and Executive,19
+2008-11,Private Housing,Private Apartments and Condominiums,8
+2008-11,Private Housing,Landed Properties,0.9
+2008-11,Others,Others,1.3
+2008-12,Public Housing,1-Room / 2-Room,1
+2008-12,Public Housing,3-Room,5.9
+2008-12,Public Housing,4-Room,15.9
+2008-12,Public Housing,5-Room and Executive,17.3
+2008-12,Private Housing,Private Apartments and Condominiums,7.4
+2008-12,Private Housing,Landed Properties,0.9
+2008-12,Others,Others,1.3
+2009-01,Public Housing,1-Room / 2-Room,1.1
+2009-01,Public Housing,3-Room,6.2
+2009-01,Public Housing,4-Room,16.5
+2009-01,Public Housing,5-Room and Executive,17.8
+2009-01,Private Housing,Private Apartments and Condominiums,7.6
+2009-01,Private Housing,Landed Properties,0.9
+2009-01,Others,Others,1.3
+2009-02,Public Housing,1-Room / 2-Room,1.1
+2009-02,Public Housing,3-Room,6.3
+2009-02,Public Housing,4-Room,16.9
+2009-02,Public Housing,5-Room and Executive,18.4
+2009-02,Private Housing,Private Apartments and Condominiums,7.9
+2009-02,Private Housing,Landed Properties,0.9
+2009-02,Others,Others,1.2
+2009-03,Public Housing,1-Room / 2-Room,1
+2009-03,Public Housing,3-Room,6.2
+2009-03,Public Housing,4-Room,16.7
+2009-03,Public Housing,5-Room and Executive,18.3
+2009-03,Private Housing,Private Apartments and Condominiums,8
+2009-03,Private Housing,Landed Properties,0.9
+2009-03,Others,Others,1.2
+2009-04,Public Housing,1-Room / 2-Room,1
+2009-04,Public Housing,3-Room,6.1
+2009-04,Public Housing,4-Room,16.7
+2009-04,Public Housing,5-Room and Executive,18.4
+2009-04,Private Housing,Private Apartments and Condominiums,8.3
+2009-04,Private Housing,Landed Properties,1
+2009-04,Others,Others,1.2
+2009-05,Public Housing,1-Room / 2-Room,1
+2009-05,Public Housing,3-Room,6.1
+2009-05,Public Housing,4-Room,16.4
+2009-05,Public Housing,5-Room and Executive,18.1
+2009-05,Private Housing,Private Apartments and Condominiums,8.1
+2009-05,Private Housing,Landed Properties,0.9
+2009-05,Others,Others,1.2
+2009-06,Public Housing,1-Room / 2-Room,1
+2009-06,Public Housing,3-Room,6.2
+2009-06,Public Housing,4-Room,16.7
+2009-06,Public Housing,5-Room and Executive,18.3
+2009-06,Private Housing,Private Apartments and Condominiums,8
+2009-06,Private Housing,Landed Properties,0.9
+2009-06,Others,Others,1.2
+2009-07,Public Housing,1-Room / 2-Room,1
+2009-07,Public Housing,3-Room,5.9
+2009-07,Public Housing,4-Room,16.2
+2009-07,Public Housing,5-Room and Executive,17.7
+2009-07,Private Housing,Private Apartments and Condominiums,7.6
+2009-07,Private Housing,Landed Properties,0.9
+2009-07,Others,Others,1.2
+2009-08,Public Housing,1-Room / 2-Room,1
+2009-08,Public Housing,3-Room,6.3
+2009-08,Public Housing,4-Room,16.7
+2009-08,Public Housing,5-Room and Executive,18.4
+2009-08,Private Housing,Private Apartments and Condominiums,8.2
+2009-08,Private Housing,Landed Properties,0.9
+2009-08,Others,Others,1.2
+2009-09,Public Housing,1-Room / 2-Room,1
+2009-09,Public Housing,3-Room,6.3
+2009-09,Public Housing,4-Room,17.2
+2009-09,Public Housing,5-Room and Executive,18.9
+2009-09,Private Housing,Private Apartments and Condominiums,8.6
+2009-09,Private Housing,Landed Properties,1
+2009-09,Others,Others,1.2
+2009-10,Public Housing,1-Room / 2-Room,1.1
+2009-10,Public Housing,3-Room,6.3
+2009-10,Public Housing,4-Room,17.2
+2009-10,Public Housing,5-Room and Executive,18.9
+2009-10,Private Housing,Private Apartments and Condominiums,8.5
+2009-10,Private Housing,Landed Properties,0.9
+2009-10,Others,Others,1.2
+2009-11,Public Housing,1-Room / 2-Room,1.1
+2009-11,Public Housing,3-Room,6.2
+2009-11,Public Housing,4-Room,16.8
+2009-11,Public Housing,5-Room and Executive,18.4
+2009-11,Private Housing,Private Apartments and Condominiums,8.6
+2009-11,Private Housing,Landed Properties,0.9
+2009-11,Others,Others,1.3
+2009-12,Public Housing,1-Room / 2-Room,1
+2009-12,Public Housing,3-Room,6
+2009-12,Public Housing,4-Room,15.9
+2009-12,Public Housing,5-Room and Executive,17.3
+2009-12,Private Housing,Private Apartments and Condominiums,8.2
+2009-12,Private Housing,Landed Properties,0.9
+2009-12,Others,Others,1.1
+2010-01,Public Housing,1-Room / 2-Room,1.1
+2010-01,Public Housing,3-Room,6.1
+2010-01,Public Housing,4-Room,16.2
+2010-01,Public Housing,5-Room and Executive,17.5
+2010-01,Private Housing,Private Apartments and Condominiums,8.6
+2010-01,Private Housing,Landed Properties,0.9
+2010-01,Others,Others,1.3
+2010-02,Public Housing,1-Room / 2-Room,1
+2010-02,Public Housing,3-Room,6
+2010-02,Public Housing,4-Room,16.3
+2010-02,Public Housing,5-Room and Executive,17.8
+2010-02,Private Housing,Private Apartments and Condominiums,8.6
+2010-02,Private Housing,Landed Properties,0.9
+2010-02,Others,Others,1.2
+2010-03,Public Housing,1-Room / 2-Room,1
+2010-03,Public Housing,3-Room,6
+2010-03,Public Housing,4-Room,16.3
+2010-03,Public Housing,5-Room and Executive,18
+2010-03,Private Housing,Private Apartments and Condominiums,8.5
+2010-03,Private Housing,Landed Properties,1
+2010-03,Others,Others,1.1
+2010-04,Public Housing,1-Room / 2-Room,1
+2010-04,Public Housing,3-Room,6.2
+2010-04,Public Housing,4-Room,16.8
+2010-04,Public Housing,5-Room and Executive,18.5
+2010-04,Private Housing,Private Apartments and Condominiums,8.6
+2010-04,Private Housing,Landed Properties,1
+2010-04,Others,Others,1.1
+2010-05,Public Housing,1-Room / 2-Room,1
+2010-05,Public Housing,3-Room,5.9
+2010-05,Public Housing,4-Room,16
+2010-05,Public Housing,5-Room and Executive,17.5
+2010-05,Private Housing,Private Apartments and Condominiums,8.4
+2010-05,Private Housing,Landed Properties,0.9
+2010-05,Others,Others,1.2
+2010-06,Public Housing,1-Room / 2-Room,1
+2010-06,Public Housing,3-Room,6
+2010-06,Public Housing,4-Room,16.2
+2010-06,Public Housing,5-Room and Executive,17.7
+2010-06,Private Housing,Private Apartments and Condominiums,8.4
+2010-06,Private Housing,Landed Properties,0.9
+2010-06,Others,Others,1.1
+2010-07,Public Housing,1-Room / 2-Room,1
+2010-07,Public Housing,3-Room,5.8
+2010-07,Public Housing,4-Room,16
+2010-07,Public Housing,5-Room and Executive,17.5
+2010-07,Private Housing,Private Apartments and Condominiums,8.2
+2010-07,Private Housing,Landed Properties,0.9
+2010-07,Others,Others,1.2
+2010-08,Public Housing,1-Room / 2-Room,1.1
+2010-08,Public Housing,3-Room,6.1
+2010-08,Public Housing,4-Room,16.7
+2010-08,Public Housing,5-Room and Executive,18.3
+2010-08,Private Housing,Private Apartments and Condominiums,8.8
+2010-08,Private Housing,Landed Properties,0.9
+2010-08,Others,Others,1.2
+2010-09,Public Housing,1-Room / 2-Room,1.1
+2010-09,Public Housing,3-Room,6.2
+2010-09,Public Housing,4-Room,17.2
+2010-09,Public Housing,5-Room and Executive,18.8
+2010-09,Private Housing,Private Apartments and Condominiums,9.2
+2010-09,Private Housing,Landed Properties,1
+2010-09,Others,Others,1.2
+2010-10,Public Housing,1-Room / 2-Room,1.1
+2010-10,Public Housing,3-Room,6.1
+2010-10,Public Housing,4-Room,16.8
+2010-10,Public Housing,5-Room and Executive,18.4
+2010-10,Private Housing,Private Apartments and Condominiums,8.9
+2010-10,Private Housing,Landed Properties,0.9
+2010-10,Others,Others,1.1
+2010-11,Public Housing,1-Room / 2-Room,1.1
+2010-11,Public Housing,3-Room,6
+2010-11,Public Housing,4-Room,16.7
+2010-11,Public Housing,5-Room and Executive,18.4
+2010-11,Private Housing,Private Apartments and Condominiums,9.1
+2010-11,Private Housing,Landed Properties,1
+2010-11,Others,Others,1.3
+2010-12,Public Housing,1-Room / 2-Room,1
+2010-12,Public Housing,3-Room,5.8
+2010-12,Public Housing,4-Room,15.9
+2010-12,Public Housing,5-Room and Executive,17.3
+2010-12,Private Housing,Private Apartments and Condominiums,8.6
+2010-12,Private Housing,Landed Properties,0.9
+2010-12,Others,Others,1.2
+2011-01,Public Housing,1-Room / 2-Room,1.1
+2011-01,Public Housing,3-Room,6
+2011-01,Public Housing,4-Room,16.4
+2011-01,Public Housing,5-Room and Executive,17.6
+2011-01,Private Housing,Private Apartments and Condominiums,8.9
+2011-01,Private Housing,Landed Properties,0.9
+2011-01,Others,Others,1.3
+2011-02,Public Housing,1-Room / 2-Room,1
+2011-02,Public Housing,3-Room,6
+2011-02,Public Housing,4-Room,16.6
+2011-02,Public Housing,5-Room and Executive,18.1
+2011-02,Private Housing,Private Apartments and Condominiums,9.4
+2011-02,Private Housing,Landed Properties,1
+2011-02,Others,Others,1.2
+2011-03,Public Housing,1-Room / 2-Room,1.1
+2011-03,Public Housing,3-Room,6.1
+2011-03,Public Housing,4-Room,16.7
+2011-03,Public Housing,5-Room and Executive,18.3
+2011-03,Private Housing,Private Apartments and Condominiums,9.6
+2011-03,Private Housing,Landed Properties,1
+2011-03,Others,Others,1.3
+2011-04,Public Housing,1-Room / 2-Room,1.1
+2011-04,Public Housing,3-Room,6.2
+2011-04,Public Housing,4-Room,17.1
+2011-04,Public Housing,5-Room and Executive,18.7
+2011-04,Private Housing,Private Apartments and Condominiums,9.7
+2011-04,Private Housing,Landed Properties,1
+2011-04,Others,Others,1.2
+2011-05,Public Housing,1-Room / 2-Room,1
+2011-05,Public Housing,3-Room,5.9
+2011-05,Public Housing,4-Room,16.4
+2011-05,Public Housing,5-Room and Executive,17.9
+2011-05,Private Housing,Private Apartments and Condominiums,9.1
+2011-05,Private Housing,Landed Properties,0.9
+2011-05,Others,Others,1.2
+2011-06,Public Housing,1-Room / 2-Room,1
+2011-06,Public Housing,3-Room,6
+2011-06,Public Housing,4-Room,16.6
+2011-06,Public Housing,5-Room and Executive,18.1
+2011-06,Private Housing,Private Apartments and Condominiums,8.9
+2011-06,Private Housing,Landed Properties,0.9
+2011-06,Others,Others,1.2
+2011-07,Public Housing,1-Room / 2-Room,1
+2011-07,Public Housing,3-Room,5.8
+2011-07,Public Housing,4-Room,16.1
+2011-07,Public Housing,5-Room and Executive,17.4
+2011-07,Private Housing,Private Apartments and Condominiums,8.6
+2011-07,Private Housing,Landed Properties,1
+2011-07,Others,Others,1.2
+2011-08,Public Housing,1-Room / 2-Room,1.1
+2011-08,Public Housing,3-Room,6.1
+2011-08,Public Housing,4-Room,16.9
+2011-08,Public Housing,5-Room and Executive,18.3
+2011-08,Private Housing,Private Apartments and Condominiums,9
+2011-08,Private Housing,Landed Properties,0.9
+2011-08,Others,Others,1.2
+2011-09,Public Housing,1-Room / 2-Room,1.1
+2011-09,Public Housing,3-Room,6.3
+2011-09,Public Housing,4-Room,17.6
+2011-09,Public Housing,5-Room and Executive,19.2
+2011-09,Private Housing,Private Apartments and Condominiums,9.4
+2011-09,Private Housing,Landed Properties,0.9
+2011-09,Others,Others,1.3
+2011-10,Public Housing,1-Room / 2-Room,1.1
+2011-10,Public Housing,3-Room,6.1
+2011-10,Public Housing,4-Room,17.4
+2011-10,Public Housing,5-Room and Executive,18.8
+2011-10,Private Housing,Private Apartments and Condominiums,9.6
+2011-10,Private Housing,Landed Properties,0.9
+2011-10,Others,Others,1.3
+2011-11,Public Housing,1-Room / 2-Room,1.1
+2011-11,Public Housing,3-Room,6
+2011-11,Public Housing,4-Room,16.9
+2011-11,Public Housing,5-Room and Executive,18.5
+2011-11,Private Housing,Private Apartments and Condominiums,9.9
+2011-11,Private Housing,Landed Properties,0.9
+2011-11,Others,Others,1.3
+2011-12,Public Housing,1-Room / 2-Room,1.1
+2011-12,Public Housing,3-Room,5.8
+2011-12,Public Housing,4-Room,16.2
+2011-12,Public Housing,5-Room and Executive,17.4
+2011-12,Private Housing,Private Apartments and Condominiums,9.5
+2011-12,Private Housing,Landed Properties,0.9
+2011-12,Others,Others,1.2
+2012-01,Public Housing,1-Room / 2-Room,1.1
+2012-01,Public Housing,3-Room,6.1
+2012-01,Public Housing,4-Room,16.6
+2020-04,Others,Others,0.1
+2012-01,Public Housing,5-Room and Executive,17.8
+2012-01,Private Housing,Private Apartments and Condominiums,9.8
+2012-01,Private Housing,Landed Properties,0.9
+2012-01,Others,Others,1.3
+2012-02,Public Housing,1-Room / 2-Room,1.1
+2012-02,Public Housing,3-Room,6.1
+2012-02,Public Housing,4-Room,17.2
+2012-02,Public Housing,5-Room and Executive,18.5
+2012-02,Private Housing,Private Apartments and Condominiums,10.2
+2012-02,Private Housing,Landed Properties,0.9
+2012-02,Others,Others,1.3
+2012-03,Public Housing,1-Room / 2-Room,1.1
+2012-03,Public Housing,3-Room,6.1
+2012-03,Public Housing,4-Room,17.2
+2012-03,Public Housing,5-Room and Executive,18.7
+2012-03,Private Housing,Private Apartments and Condominiums,10.2
+2012-03,Private Housing,Landed Properties,0.9
+2012-03,Others,Others,1.2
+2012-04,Public Housing,1-Room / 2-Room,1.1
+2012-04,Public Housing,3-Room,6.2
+2012-04,Public Housing,4-Room,17.4
+2012-04,Public Housing,5-Room and Executive,18.8
+2012-04,Private Housing,Private Apartments and Condominiums,10.4
+2012-04,Private Housing,Landed Properties,0.9
+2012-04,Others,Others,1.2
+2012-05,Public Housing,1-Room / 2-Room,1.1
+2012-05,Public Housing,3-Room,5.9
+2012-05,Public Housing,4-Room,16.8
+2012-05,Public Housing,5-Room and Executive,18.1
+2012-05,Private Housing,Private Apartments and Condominiums,10
+2012-05,Private Housing,Landed Properties,0.9
+2012-05,Others,Others,1.2
+2012-06,Public Housing,1-Room / 2-Room,1.1
+2012-06,Public Housing,3-Room,6
+2012-06,Public Housing,4-Room,17.2
+2012-06,Public Housing,5-Room and Executive,18.4
+2012-06,Private Housing,Private Apartments and Condominiums,9.9
+2012-06,Private Housing,Landed Properties,0.9
+2012-06,Others,Others,1.2
+2012-07,Public Housing,1-Room / 2-Room,1
+2012-07,Public Housing,3-Room,5.8
+2012-07,Public Housing,4-Room,16.6
+2012-07,Public Housing,5-Room and Executive,17.7
+2012-07,Private Housing,Private Apartments and Condominiums,9.3
+2012-07,Private Housing,Landed Properties,0.9
+2012-07,Others,Others,1.3
+2012-08,Public Housing,1-Room / 2-Room,1.1
+2012-08,Public Housing,3-Room,6.3
+2012-08,Public Housing,4-Room,17.7
+2012-08,Public Housing,5-Room and Executive,19
+2012-08,Private Housing,Private Apartments and Condominiums,10.1
+2012-08,Private Housing,Landed Properties,0.9
+2012-08,Others,Others,1.2
+2012-09,Public Housing,1-Room / 2-Room,1.1
+2012-09,Public Housing,3-Room,6.4
+2012-09,Public Housing,4-Room,18.5
+2012-09,Public Housing,5-Room and Executive,19.7
+2012-09,Private Housing,Private Apartments and Condominiums,10.6
+2012-09,Private Housing,Landed Properties,0.9
+2012-09,Others,Others,1.3
+2012-10,Public Housing,1-Room / 2-Room,1.1
+2012-10,Public Housing,3-Room,6
+2012-10,Public Housing,4-Room,17.5
+2012-10,Public Housing,5-Room and Executive,18.7
+2012-10,Private Housing,Private Apartments and Condominiums,10.4
+2012-10,Private Housing,Landed Properties,0.9
+2012-10,Others,Others,1.2
+2012-11,Public Housing,1-Room / 2-Room,1.1
+2012-11,Public Housing,3-Room,6
+2012-11,Public Housing,4-Room,17.5
+2012-11,Public Housing,5-Room and Executive,18.7
+2012-11,Private Housing,Private Apartments and Condominiums,10.6
+2012-11,Private Housing,Landed Properties,1
+2012-11,Others,Others,1.3
+2012-12,Public Housing,1-Room / 2-Room,1.1
+2012-12,Public Housing,3-Room,5.8
+2012-12,Public Housing,4-Room,16.6
+2012-12,Public Housing,5-Room and Executive,17.6
+2012-12,Private Housing,Private Apartments and Condominiums,10
+2012-12,Private Housing,Landed Properties,0.9
+2012-12,Others,Others,1.2
+2013-01,Public Housing,1-Room / 2-Room,1.1
+2013-01,Public Housing,3-Room,5.9
+2013-01,Public Housing,4-Room,16.9
+2013-01,Public Housing,5-Room and Executive,17.8
+2013-01,Private Housing,Private Apartments and Condominiums,10.2
+2013-01,Private Housing,Landed Properties,0.9
+2013-01,Others,Others,1.2
+2013-02,Public Housing,1-Room / 2-Room,1.1
+2013-02,Public Housing,3-Room,5.9
+2013-02,Public Housing,4-Room,17.1
+2013-02,Public Housing,5-Room and Executive,18.1
+2013-02,Private Housing,Private Apartments and Condominiums,10.6
+2013-02,Private Housing,Landed Properties,0.9
+2013-02,Others,Others,1.2
+2013-03,Public Housing,1-Room / 2-Room,1.1
+2013-03,Public Housing,3-Room,5.9
+2013-03,Public Housing,4-Room,17.1
+2013-03,Public Housing,5-Room and Executive,18.3
+2013-03,Private Housing,Private Apartments and Condominiums,10.8
+2013-03,Private Housing,Landed Properties,0.9
+2013-03,Others,Others,1.2
+2013-04,Public Housing,1-Room / 2-Room,1.1
+2013-04,Public Housing,3-Room,6.2
+2013-04,Public Housing,4-Room,17.7
+2013-04,Public Housing,5-Room and Executive,18.9
+2013-04,Private Housing,Private Apartments and Condominiums,10.9
+2013-04,Private Housing,Landed Properties,0.9
+2013-04,Others,Others,1.1
+2013-05,Public Housing,1-Room / 2-Room,1.1
+2013-05,Public Housing,3-Room,5.8
+2013-05,Public Housing,4-Room,16.8
+2013-05,Public Housing,5-Room and Executive,17.8
+2013-05,Private Housing,Private Apartments and Condominiums,10.1
+2013-05,Private Housing,Landed Properties,0.9
+2013-05,Others,Others,1.2
+2013-06,Public Housing,1-Room / 2-Room,1.1
+2013-06,Public Housing,3-Room,6.1
+2013-06,Public Housing,4-Room,17.8
+2013-06,Public Housing,5-Room and Executive,18.6
+2013-06,Private Housing,Private Apartments and Condominiums,10.5
+2013-06,Private Housing,Landed Properties,0.9
+2013-06,Others,Others,1.2
+2013-07,Public Housing,1-Room / 2-Room,1.1
+2013-07,Public Housing,3-Room,6
+2013-07,Public Housing,4-Room,17.3
+2013-07,Public Housing,5-Room and Executive,18.2
+2013-07,Private Housing,Private Apartments and Condominiums,9.9
+2013-07,Private Housing,Landed Properties,0.9
+2013-07,Others,Others,1.2
+2013-08,Public Housing,1-Room / 2-Room,1.2
+2013-08,Public Housing,3-Room,6.3
+2013-08,Public Housing,4-Room,18.2
+2013-08,Public Housing,5-Room and Executive,19.2
+2013-08,Private Housing,Private Apartments and Condominiums,10.5
+2013-08,Private Housing,Landed Properties,0.9
+2013-08,Others,Others,1.3
+2013-09,Public Housing,1-Room / 2-Room,1.2
+2013-09,Public Housing,3-Room,6.2
+2013-09,Public Housing,4-Room,17.9
+2013-09,Public Housing,5-Room and Executive,19
+2013-09,Private Housing,Private Apartments and Condominiums,11
+2013-09,Private Housing,Landed Properties,0.9
+2013-09,Others,Others,1.3
+2013-10,Public Housing,1-Room / 2-Room,1.1
+2013-10,Public Housing,3-Room,6
+2013-10,Public Housing,4-Room,17.4
+2013-10,Public Housing,5-Room and Executive,18.4
+2013-10,Private Housing,Private Apartments and Condominiums,11.2
+2013-10,Private Housing,Landed Properties,0.9
+2013-10,Others,Others,1.1
+2013-11,Public Housing,1-Room / 2-Room,1.2
+2013-11,Public Housing,3-Room,6.1
+2013-11,Public Housing,4-Room,17.8
+2013-11,Public Housing,5-Room and Executive,18.7
+2013-11,Private Housing,Private Apartments and Condominiums,11.3
+2013-11,Private Housing,Landed Properties,0.9
+2013-11,Others,Others,1.3
+2013-12,Public Housing,1-Room / 2-Room,1.2
+2013-12,Public Housing,3-Room,6
+2013-12,Public Housing,4-Room,17.1
+2013-12,Public Housing,5-Room and Executive,17.8
+2013-12,Private Housing,Private Apartments and Condominiums,10.9
+2013-12,Private Housing,Landed Properties,0.9
+2013-12,Others,Others,1.2
+2014-01,Public Housing,1-Room / 2-Room,1.2
+2014-01,Public Housing,3-Room,6.1
+2014-01,Public Housing,4-Room,17.5
+2014-01,Public Housing,5-Room and Executive,18
+2014-01,Private Housing,Private Apartments and Condominiums,11.3
+2014-01,Private Housing,Landed Properties,0.9
+2014-01,Others,Others,1.2
+2014-02,Public Housing,1-Room / 2-Room,1.2
+2014-02,Public Housing,3-Room,6.3
+2014-02,Public Housing,4-Room,18.2
+2014-02,Public Housing,5-Room and Executive,19.1
+2014-02,Private Housing,Private Apartments and Condominiums,11.7
+2014-02,Private Housing,Landed Properties,1
+2014-02,Others,Others,1.3
+2014-03,Public Housing,1-Room / 2-Room,1.2
+2014-03,Public Housing,3-Room,6.2
+2014-03,Public Housing,4-Room,17.7
+2014-03,Public Housing,5-Room and Executive,18.8
+2014-03,Private Housing,Private Apartments and Condominiums,11.7
+2014-03,Private Housing,Landed Properties,0.9
+2014-03,Others,Others,1.3
+2014-04,Public Housing,1-Room / 2-Room,1.2
+2014-04,Public Housing,3-Room,6.2
+2014-04,Public Housing,4-Room,17.8
+2014-04,Public Housing,5-Room and Executive,18.7
+2014-04,Private Housing,Private Apartments and Condominiums,11.6
+2014-04,Private Housing,Landed Properties,1
+2014-04,Others,Others,1.1
+2014-05,Public Housing,1-Room / 2-Room,1.2
+2014-05,Public Housing,3-Room,6
+2014-05,Public Housing,4-Room,17.1
+2014-05,Public Housing,5-Room and Executive,17.8
+2014-05,Private Housing,Private Apartments and Condominiums,11
+2014-05,Private Housing,Landed Properties,0.9
+2014-05,Others,Others,1.2
+2014-06,Public Housing,1-Room / 2-Room,1.2
+2014-06,Public Housing,3-Room,6.2
+2014-06,Public Housing,4-Room,17.9
+2014-06,Public Housing,5-Room and Executive,18.7
+2014-06,Private Housing,Private Apartments and Condominiums,11.2
+2014-06,Private Housing,Landed Properties,0.9
+2014-06,Others,Others,1.2
+2014-07,Public Housing,1-Room / 2-Room,1.2
+2014-07,Public Housing,3-Room,6
+2014-07,Public Housing,4-Room,17.3
+2014-07,Public Housing,5-Room and Executive,17.9
+2014-07,Private Housing,Private Apartments and Condominiums,10.7
+2014-07,Private Housing,Landed Properties,0.9
+2014-07,Others,Others,1.2
+2014-08,Public Housing,1-Room / 2-Room,1.3
+2014-08,Public Housing,3-Room,6.4
+2014-08,Public Housing,4-Room,18.3
+2014-08,Public Housing,5-Room and Executive,19
+2014-08,Private Housing,Private Apartments and Condominiums,11.2
+2014-08,Private Housing,Landed Properties,0.9
+2014-08,Others,Others,1.2
+2014-09,Public Housing,1-Room / 2-Room,1.3
+2014-09,Public Housing,3-Room,6.2
+2014-09,Public Housing,4-Room,18.2
+2014-09,Public Housing,5-Room and Executive,19.1
+2014-09,Private Housing,Private Apartments and Condominiums,11.7
+2014-09,Private Housing,Landed Properties,1
+2014-09,Others,Others,1.2
+2014-10,Public Housing,1-Room / 2-Room,1.3
+2014-10,Public Housing,3-Room,6.1
+2014-10,Public Housing,4-Room,17.6
+2014-10,Public Housing,5-Room and Executive,18.3
+2014-10,Private Housing,Private Apartments and Condominiums,12
+2014-10,Private Housing,Landed Properties,0.9
+2014-10,Others,Others,1.2
+2014-11,Public Housing,1-Room / 2-Room,1.3
+2014-11,Public Housing,3-Room,6.1
+2014-11,Public Housing,4-Room,17.6
+2014-11,Public Housing,5-Room and Executive,18.3
+2014-11,Private Housing,Private Apartments and Condominiums,11.6
+2014-11,Private Housing,Landed Properties,0.9
+2014-11,Others,Others,1.2
+2014-12,Public Housing,1-Room / 2-Room,1.3
+2014-12,Public Housing,3-Room,5.9
+2014-12,Public Housing,4-Room,17.1
+2014-12,Public Housing,5-Room and Executive,17.6
+2014-12,Private Housing,Private Apartments and Condominiums,11.5
+2014-12,Private Housing,Landed Properties,0.9
+2014-12,Others,Others,1.1
+2015-01,Public Housing,1-Room / 2-Room,1.4
+2015-01,Public Housing,3-Room,6
+2015-01,Public Housing,4-Room,17.6
+2015-01,Public Housing,5-Room and Executive,17.9
+2015-01,Private Housing,Private Apartments and Condominiums,12.3
+2015-01,Private Housing,Landed Properties,0.9
+2015-01,Others,Others,1.2
+2015-02,Public Housing,1-Room / 2-Room,1.4
+2015-02,Public Housing,3-Room,6.1
+2015-02,Public Housing,4-Room,17.9
+2015-02,Public Housing,5-Room and Executive,18.5
+2015-02,Private Housing,Private Apartments and Condominiums,12.6
+2015-02,Private Housing,Landed Properties,0.9
+2015-02,Others,Others,1.2
+2015-03,Public Housing,1-Room / 2-Room,1.4
+2015-03,Public Housing,3-Room,6.3
+2015-03,Public Housing,4-Room,18.3
+2015-03,Public Housing,5-Room and Executive,19.1
+2015-03,Private Housing,Private Apartments and Condominiums,13.1
+2015-03,Private Housing,Landed Properties,1
+2015-03,Others,Others,1.3
+2015-04,Public Housing,1-Room / 2-Room,1.4
+2015-04,Public Housing,3-Room,6.5
+2015-04,Public Housing,4-Room,18.9
+2015-04,Public Housing,5-Room and Executive,19.6
+2015-04,Private Housing,Private Apartments and Condominiums,13.1
+2015-04,Private Housing,Landed Properties,1
+2015-04,Others,Others,0.2
+2015-05,Public Housing,1-Room / 2-Room,1.3
+2015-05,Public Housing,3-Room,6
+2015-05,Public Housing,4-Room,17.3
+2015-05,Public Housing,5-Room and Executive,17.7
+2015-05,Private Housing,Private Apartments and Condominiums,12
+2015-05,Private Housing,Landed Properties,0.9
+2015-05,Others,Others,0.1
+2015-06,Public Housing,1-Room / 2-Room,1.3
+2015-06,Public Housing,3-Room,6
+2015-06,Public Housing,4-Room,17.6
+2015-06,Public Housing,5-Room and Executive,18
+2015-06,Private Housing,Private Apartments and Condominiums,12
+2015-06,Private Housing,Landed Properties,0.9
+2015-06,Others,Others,0.1
+2015-07,Public Housing,1-Room / 2-Room,1.3
+2015-07,Public Housing,3-Room,6.2
+2015-07,Public Housing,4-Room,17.9
+2015-07,Public Housing,5-Room and Executive,18.2
+2015-07,Private Housing,Private Apartments and Condominiums,11.6
+2015-07,Private Housing,Landed Properties,0.9
+2015-07,Others,Others,0.1
+2015-08,Public Housing,1-Room / 2-Room,1.5
+2015-08,Public Housing,3-Room,6.4
+2015-08,Public Housing,4-Room,18.9
+2015-08,Public Housing,5-Room and Executive,19.4
+2015-08,Private Housing,Private Apartments and Condominiums,11.6
+2015-08,Private Housing,Landed Properties,0.9
+2015-08,Others,Others,0.1
+2015-09,Public Housing,1-Room / 2-Room,1.4
+2015-09,Public Housing,3-Room,6.4
+2015-09,Public Housing,4-Room,18.6
+2015-09,Public Housing,5-Room and Executive,19.2
+2015-09,Private Housing,Private Apartments and Condominiums,12.2
+2015-09,Private Housing,Landed Properties,1
+2015-09,Others,Others,0.1
+2015-10,Public Housing,1-Room / 2-Room,1.4
+2015-10,Public Housing,3-Room,6.2
+2015-10,Public Housing,4-Room,18.3
+2015-10,Public Housing,5-Room and Executive,18.8
+2015-10,Private Housing,Private Apartments and Condominiums,12.5
+2015-10,Private Housing,Landed Properties,1
+2015-10,Others,Others,0.1
+2015-11,Public Housing,1-Room / 2-Room,1.4
+2015-11,Public Housing,3-Room,6.1
+2015-11,Public Housing,4-Room,18.1
+2015-11,Public Housing,5-Room and Executive,18.6
+2015-11,Private Housing,Private Apartments and Condominiums,12.6
+2015-11,Private Housing,Landed Properties,1
+2015-11,Others,Others,0.1
+2015-12,Public Housing,1-Room / 2-Room,1.4
+2015-12,Public Housing,3-Room,6.2
+2015-12,Public Housing,4-Room,18.3
+2015-12,Public Housing,5-Room and Executive,18.4
+2015-12,Private Housing,Private Apartments and Condominiums,12.5
+2015-12,Private Housing,Landed Properties,1
+2015-12,Others,Others,0.1
+2016-01,Public Housing,1-Room / 2-Room,1.5
+2016-01,Public Housing,3-Room,6.1
+2016-01,Public Housing,4-Room,17.7
+2016-01,Public Housing,5-Room and Executive,17.6
+2016-01,Private Housing,Private Apartments and Condominiums,12.5
+2016-01,Private Housing,Landed Properties,0.9
+2016-01,Others,Others,0.2
+2016-02,Public Housing,1-Room / 2-Room,1.4
+2016-02,Public Housing,3-Room,6.2
+2016-02,Public Housing,4-Room,17.9
+2016-02,Public Housing,5-Room and Executive,18
+2016-02,Private Housing,Private Apartments and Condominiums,12.8
+2016-02,Private Housing,Landed Properties,0.9
+2016-02,Others,Others,0.1
+2016-03,Public Housing,1-Room / 2-Room,1.4
+2016-03,Public Housing,3-Room,6.2
+2016-03,Public Housing,4-Room,18.5
+2016-03,Public Housing,5-Room and Executive,18.8
+2016-03,Private Housing,Private Apartments and Condominiums,13.1
+2016-03,Private Housing,Landed Properties,1
+2016-03,Others,Others,0.2
+2016-04,Public Housing,1-Room / 2-Room,1.5
+2016-04,Public Housing,3-Room,6.5
+2016-04,Public Housing,4-Room,19.4
+2016-04,Public Housing,5-Room and Executive,19.6
+2016-04,Private Housing,Private Apartments and Condominiums,13.4
+2016-04,Private Housing,Landed Properties,1
+2016-04,Others,Others,0.1
+2016-05,Public Housing,1-Room / 2-Room,1.4
+2016-05,Public Housing,3-Room,6.2
+2016-05,Public Housing,4-Room,18
+2016-05,Public Housing,5-Room and Executive,18.2
+2016-05,Private Housing,Private Apartments and Condominiums,12.4
+2016-05,Private Housing,Landed Properties,0.9
+2016-05,Others,Others,0.2
+2016-06,Public Housing,1-Room / 2-Room,1.4
+2016-06,Public Housing,3-Room,6.3
+2016-06,Public Housing,4-Room,18.5
+2016-06,Public Housing,5-Room and Executive,18.6
+2016-06,Private Housing,Private Apartments and Condominiums,12.9
+2016-06,Private Housing,Landed Properties,1
+2016-06,Others,Others,0.1
+2016-07,Public Housing,1-Room / 2-Room,1.4
+2016-07,Public Housing,3-Room,6.2
+2016-07,Public Housing,4-Room,18.4
+2016-07,Public Housing,5-Room and Executive,18.4
+2016-07,Private Housing,Private Apartments and Condominiums,12.5
+2016-07,Private Housing,Landed Properties,0.9
+2016-07,Others,Others,0.1
+2016-08,Public Housing,1-Room / 2-Room,1.5
+2016-08,Public Housing,3-Room,6.5
+2016-08,Public Housing,4-Room,19.2
+2016-08,Public Housing,5-Room and Executive,19.3
+2016-08,Private Housing,Private Apartments and Condominiums,13.2
+2016-08,Private Housing,Landed Properties,1
+2016-08,Others,Others,0.1
+2016-09,Public Housing,1-Room / 2-Room,1.4
+2016-09,Public Housing,3-Room,6.4
+2016-09,Public Housing,4-Room,19
+2016-09,Public Housing,5-Room and Executive,19.2
+2016-09,Private Housing,Private Apartments and Condominiums,13.8
+2016-09,Private Housing,Landed Properties,1
+2016-09,Others,Others,0.2
+2016-10,Public Housing,1-Room / 2-Room,1.4
+2016-10,Public Housing,3-Room,6.3
+2016-10,Public Housing,4-Room,18.4
+2016-10,Public Housing,5-Room and Executive,18.5
+2016-10,Private Housing,Private Apartments and Condominiums,13.6
+2016-10,Private Housing,Landed Properties,1
+2016-10,Others,Others,0.1
+2016-11,Public Housing,1-Room / 2-Room,1.5
+2016-11,Public Housing,3-Room,6.3
+2016-11,Public Housing,4-Room,18.9
+2016-11,Public Housing,5-Room and Executive,19
+2016-11,Private Housing,Private Apartments and Condominiums,14.1
+2016-11,Private Housing,Landed Properties,1
+2016-11,Others,Others,0.2
+2016-12,Public Housing,1-Room / 2-Room,1.4
+2016-12,Public Housing,3-Room,6
+2016-12,Public Housing,4-Room,17.6
+2016-12,Public Housing,5-Room and Executive,17.6
+2016-12,Private Housing,Private Apartments and Condominiums,13.6
+2016-12,Private Housing,Landed Properties,0.9
+2016-12,Others,Others,0.1
+2017-01,Public Housing,1-Room / 2-Room,1.5
+2017-01,Public Housing,3-Room,6
+2017-01,Public Housing,4-Room,17.5
+2017-01,Public Housing,5-Room and Executive,17.1
+2017-01,Private Housing,Private Apartments and Condominiums,13.5
+2017-01,Private Housing,Landed Properties,0.9
+2017-01,Others,Others,0.2
+2017-02,Public Housing,1-Room / 2-Room,1.5
+2017-02,Public Housing,3-Room,6.3
+2017-02,Public Housing,4-Room,18.7
+2017-02,Public Housing,5-Room and Executive,18.5
+2017-02,Private Housing,Private Apartments and Condominiums,14.6
+2017-02,Private Housing,Landed Properties,1
+2017-02,Others,Others,0.1
+2017-03,Public Housing,1-Room / 2-Room,1.5
+2017-03,Public Housing,3-Room,6.2
+2017-03,Public Housing,4-Room,18.8
+2017-03,Public Housing,5-Room and Executive,18.9
+2017-03,Private Housing,Private Apartments and Condominiums,15.3
+2017-03,Private Housing,Landed Properties,1
+2017-03,Others,Others,0.2
+2017-04,Public Housing,1-Room / 2-Room,1.5
+2017-04,Public Housing,3-Room,6.4
+2017-04,Public Housing,4-Room,19.3
+2017-04,Public Housing,5-Room and Executive,19.2
+2017-04,Private Housing,Private Apartments and Condominiums,15.7
+2017-04,Private Housing,Landed Properties,1
+2017-04,Others,Others,0.1
+2017-05,Public Housing,1-Room / 2-Room,1.4
+2017-05,Public Housing,3-Room,6.1
+2017-05,Public Housing,4-Room,18
+2017-05,Public Housing,5-Room and Executive,17.8
+2017-05,Private Housing,Private Apartments and Condominiums,14.5
+2017-05,Private Housing,Landed Properties,0.9
+2017-05,Others,Others,0.2
+2017-06,Public Housing,1-Room / 2-Room,1.4
+2017-06,Public Housing,3-Room,5.8
+2017-06,Public Housing,4-Room,18
+2017-06,Public Housing,5-Room and Executive,18.2
+2017-06,Private Housing,Private Apartments and Condominiums,14.3
+2017-06,Private Housing,Landed Properties,1
+2017-06,Others,Others,0.1
+2017-07,Public Housing,1-Room / 2-Room,1.6
+2017-07,Public Housing,3-Room,7
+2017-07,Public Housing,4-Room,20.2
+2017-07,Public Housing,5-Room and Executive,19.5
+2017-07,Private Housing,Private Apartments and Condominiums,14.2
+2017-07,Private Housing,Landed Properties,1
+2017-07,Others,Others,0.2
+2017-08,Public Housing,1-Room / 2-Room,1.5
+2017-08,Public Housing,3-Room,6.2
+2017-08,Public Housing,4-Room,18.5
+2017-08,Public Housing,5-Room and Executive,18.2
+2017-08,Private Housing,Private Apartments and Condominiums,13.9
+2017-08,Private Housing,Landed Properties,1
+2017-08,Others,Others,0.1
+2017-09,Public Housing,1-Room / 2-Room,1.4
+2017-09,Public Housing,3-Room,6.1
+2017-09,Public Housing,4-Room,18.1
+2017-09,Public Housing,5-Room and Executive,17.9
+2017-09,Private Housing,Private Apartments and Condominiums,14.4
+2017-09,Private Housing,Landed Properties,1
+2017-09,Others,Others,0.1
+2017-10,Public Housing,1-Room / 2-Room,1.4
+2017-10,Public Housing,3-Room,6.2
+2017-10,Public Housing,4-Room,18.6
+2017-10,Public Housing,5-Room and Executive,18.5
+2017-10,Private Housing,Private Apartments and Condominiums,15.2
+2017-10,Private Housing,Landed Properties,1
+2017-10,Others,Others,0.1
+2017-11,Public Housing,1-Room / 2-Room,1.5
+2017-11,Public Housing,3-Room,6.2
+2017-11,Public Housing,4-Room,18.9
+2017-11,Public Housing,5-Room and Executive,18.8
+2017-11,Private Housing,Private Apartments and Condominiums,15.6
+2017-11,Private Housing,Landed Properties,1
+2017-11,Others,Others,0.2
+2017-12,Public Housing,1-Room / 2-Room,1.4
+2017-12,Public Housing,3-Room,5.9
+2017-12,Public Housing,4-Room,17.5
+2017-12,Public Housing,5-Room and Executive,17.3
+2017-12,Private Housing,Private Apartments and Condominiums,14.8
+2017-12,Private Housing,Landed Properties,0.9
+2017-12,Others,Others,0.1
+2018-01,Public Housing,1-Room / 2-Room,1.5
+2018-01,Public Housing,3-Room,6.1
+2018-01,Public Housing,4-Room,18.3
+2018-01,Public Housing,5-Room and Executive,17.7
+2018-01,Private Housing,Private Apartments and Condominiums,15.6
+2018-01,Private Housing,Landed Properties,1
+2018-01,Others,Others,0.2
+2018-02,Public Housing,1-Room / 2-Room,1.5
+2018-02,Public Housing,3-Room,6.2
+2018-02,Public Housing,4-Room,18.6
+2018-02,Public Housing,5-Room and Executive,18.2
+2018-02,Private Housing,Private Apartments and Condominiums,16.5
+2018-02,Private Housing,Landed Properties,0.9
+2018-02,Others,Others,0.1
+2018-03,Public Housing,1-Room / 2-Room,1.5
+2018-04,Public Housing,3-Room,6.2
+2018-04,Public Housing,4-Room,18.5
+2018-04,Public Housing,5-Room and Executive,18.3
+2018-04,Private Housing,Private Apartments and Condominiums,16.4
+2018-04,Private Housing,Landed Properties,1
+2018-04,Others,Others,0.2
+2018-05,Public Housing,1-Room / 2-Room,1.4
+2018-05,Public Housing,3-Room,6.1
+2018-05,Public Housing,4-Room,18.4
+2018-05,Public Housing,5-Room and Executive,18
+2018-05,Private Housing,Private Apartments and Condominiums,15.4
+2018-05,Private Housing,Landed Properties,1
+2018-05,Others,Others,0.2
+2018-06,Public Housing,1-Room / 2-Room,1.5
+2018-06,Public Housing,3-Room,6.3
+2018-06,Public Housing,4-Room,18.9
+2018-06,Public Housing,5-Room and Executive,18.5
+2018-06,Private Housing,Private Apartments and Condominiums,15.6
+2018-06,Private Housing,Landed Properties,1
+2018-06,Others,Others,0.1
+2018-07,Public Housing,1-Room / 2-Room,1.5
+2018-07,Public Housing,3-Room,6.2
+2018-07,Public Housing,4-Room,18.5
+2018-07,Public Housing,5-Room and Executive,18
+2018-07,Private Housing,Private Apartments and Condominiums,15
+2018-07,Private Housing,Landed Properties,1
+2018-07,Others,Others,0.1
+2018-08,Public Housing,1-Room / 2-Room,1.5
+2018-08,Public Housing,3-Room,6.3
+2018-08,Public Housing,4-Room,18.8
+2018-08,Public Housing,5-Room and Executive,18.3
+2018-08,Private Housing,Private Apartments and Condominiums,15.5
+2018-08,Private Housing,Landed Properties,1
+2018-08,Others,Others,0.1
+2018-09,Public Housing,1-Room / 2-Room,1.5
+2018-09,Public Housing,3-Room,6.3
+2018-09,Public Housing,4-Room,18.7
+2018-09,Public Housing,5-Room and Executive,18.4
+2018-09,Private Housing,Private Apartments and Condominiums,16.1
+2018-09,Private Housing,Landed Properties,1
+2018-09,Others,Others,0.2
+2018-10,Public Housing,1-Room / 2-Room,1.5
+2018-10,Public Housing,3-Room,6.2
+2018-10,Public Housing,4-Room,18.8
+2018-10,Public Housing,5-Room and Executive,18.4
+2018-10,Private Housing,Private Apartments and Condominiums,16.7
+2018-10,Private Housing,Landed Properties,1
+2018-10,Others,Others,0.1
+2018-11,Public Housing,1-Room / 2-Room,1.5
+2018-11,Public Housing,3-Room,6.2
+2018-11,Public Housing,4-Room,19
+2018-11,Public Housing,5-Room and Executive,18.7
+2018-11,Private Housing,Private Apartments and Condominiums,16.8
+2018-11,Private Housing,Landed Properties,1
+2018-11,Others,Others,0.1
+2018-12,Public Housing,1-Room / 2-Room,1.4
+2018-12,Public Housing,3-Room,6
+2018-12,Public Housing,4-Room,17.9
+2018-12,Public Housing,5-Room and Executive,17.4
+2018-12,Private Housing,Private Apartments and Condominiums,16.1
+2018-12,Private Housing,Landed Properties,1
+2018-12,Others,Others,0.1
+2019-01,Public Housing,1-Room / 2-Room,1.5
+2019-01,Public Housing,3-Room,6
+2019-01,Public Housing,4-Room,17.8
+2019-01,Public Housing,5-Room and Executive,17.1
+2019-01,Private Housing,Private Apartments and Condominiums,16.1
+2019-01,Private Housing,Landed Properties,1
+2019-01,Others,Others,0.2
+2019-02,Public Housing,1-Room / 2-Room,1.5
+2019-02,Public Housing,3-Room,6.1
+2019-02,Public Housing,4-Room,18.4
+2019-02,Public Housing,5-Room and Executive,17.9
+2019-02,Private Housing,Private Apartments and Condominiums,15.9
+2019-02,Private Housing,Landed Properties,1
+2019-02,Others,Others,0.1
+2019-03,Public Housing,1-Room / 2-Room,1.4
+2019-03,Public Housing,3-Room,6.1
+2019-03,Public Housing,4-Room,18.4
+2019-03,Public Housing,5-Room and Executive,18.1
+2019-03,Private Housing,Private Apartments and Condominiums,16.1
+2019-03,Private Housing,Landed Properties,1
+2019-03,Others,Others,0.1
+2019-04,Public Housing,1-Room / 2-Room,1.4
+2019-04,Public Housing,3-Room,6.3
+2019-04,Public Housing,4-Room,18.9
+2019-04,Public Housing,5-Room and Executive,18.5
+2019-04,Private Housing,Private Apartments and Condominiums,16.9
+2019-04,Private Housing,Landed Properties,1
+2019-04,Others,Others,0.1
+2019-05,Public Housing,1-Room / 2-Room,1.4
+2019-05,Public Housing,3-Room,6.1
+2019-05,Public Housing,4-Room,18.1
+2019-05,Public Housing,5-Room and Executive,17.6
+2019-05,Private Housing,Private Apartments and Condominiums,15.8
+2019-05,Private Housing,Landed Properties,0.9
+2019-05,Others,Others,0.1
+2019-06,Public Housing,1-Room / 2-Room,1.5
+2019-06,Public Housing,3-Room,6.3
+2019-06,Public Housing,4-Room,18.9
+2019-06,Public Housing,5-Room and Executive,18.3
+2019-06,Private Housing,Private Apartments and Condominiums,16
+2019-06,Private Housing,Landed Properties,1
+2019-06,Others,Others,0.1
+2019-07,Public Housing,1-Room / 2-Room,1.5
+2019-08,Public Housing,3-Room,6.1
+2019-08,Public Housing,4-Room,18.4
+2019-08,Public Housing,5-Room and Executive,17.7
+2019-08,Private Housing,Private Apartments and Condominiums,15.2
+2019-08,Private Housing,Landed Properties,0.9
+2019-08,Others,Others,0.2
+2019-09,Public Housing,1-Room / 2-Room,1.4
+2019-09,Public Housing,3-Room,6.2
+2019-09,Public Housing,4-Room,18.8
+2019-09,Public Housing,5-Room and Executive,18.4
+2019-09,Private Housing,Private Apartments and Condominiums,16.3
+2019-09,Private Housing,Landed Properties,1
+2019-09,Others,Others,0.1
+2019-10,Public Housing,1-Room / 2-Room,1.4
+2019-10,Public Housing,3-Room,6.1
+2019-10,Public Housing,4-Room,18.3
+2019-10,Public Housing,5-Room and Executive,17.9
+2019-10,Private Housing,Private Apartments and Condominiums,16.5
+2019-10,Private Housing,Landed Properties,1
+2019-10,Others,Others,0.1
+2019-11,Public Housing,1-Room / 2-Room,1.4
+2019-11,Public Housing,3-Room,6.1
+2019-11,Public Housing,4-Room,18.4
+2019-11,Public Housing,5-Room and Executive,17.8
+2019-11,Private Housing,Private Apartments and Condominiums,16.9
+2019-11,Private Housing,Landed Properties,1
+2019-11,Others,Others,0.2
+2019-12,Public Housing,1-Room / 2-Room,1.4
+2019-12,Public Housing,3-Room,6
+2019-12,Public Housing,4-Room,17.9
+2019-12,Public Housing,5-Room and Executive,17.3
+2019-12,Private Housing,Private Apartments and Condominiums,16.5
+2019-12,Private Housing,Landed Properties,0.9
+2019-12,Others,Others,0.1
+2020-01,Public Housing,1-Room / 2-Room,1.5
+2020-01,Public Housing,3-Room,6
+2020-01,Public Housing,4-Room,18
+2020-01,Public Housing,5-Room and Executive,17
+2020-01,Private Housing,Private Apartments and Condominiums,16.9
+2020-01,Private Housing,Landed Properties,0.9
+2020-01,Others,Others,0.2
+2020-02,Public Housing,1-Room / 2-Room,1.6
+2020-02,Public Housing,3-Room,6.6
+2020-02,Public Housing,4-Room,19.7
+2020-02,Public Housing,5-Room and Executive,19
+2020-02,Private Housing,Private Apartments and Condominiums,18.4
+2020-02,Private Housing,Landed Properties,1
+2020-02,Others,Others,0.1
+2020-03,Public Housing,1-Room / 2-Room,1.5
+2020-03,Public Housing,3-Room,6.6
+2020-03,Public Housing,4-Room,20.5
+2020-03,Public Housing,5-Room and Executive,20.1
+2020-03,Private Housing,Private Apartments and Condominiums,18.9
+2020-03,Private Housing,Landed Properties,1.1
+2020-03,Others,Others,0.1
+2020-04,Public Housing,1-Room / 2-Room,1.5
+2020-04,Public Housing,3-Room,6.4
+2020-04,Public Housing,4-Room,19.8
+2020-04,Public Housing,5-Room and Executive,19.2
+2020-04,Private Housing,Private Apartments and Condominiums,17.8
+2020-04,Private Housing,Landed Properties,1.1
+2020-05,Public Housing,1-Room / 2-Room,1.6
+2020-05,Public Housing,3-Room,6.9
+2020-05,Public Housing,4-Room,20.9
+2020-05,Public Housing,5-Room and Executive,20.5
+2020-05,Private Housing,Private Apartments and Condominiums,19.5
+2020-05,Private Housing,Landed Properties,1.1
+2020-05,Others,Others,0.1
+2020-06,Public Housing,1-Room / 2-Room,2
+2020-06,Public Housing,3-Room,9.2
+2020-06,Public Housing,4-Room,28.7
+2020-06,Public Housing,5-Room and Executive,27.8
+2020-06,Private Housing,Private Apartments and Condominiums,23.6
+2020-06,Private Housing,Landed Properties,1.3
+2020-06,Others,Others,0.1
+2020-07,Public Housing,1-Room / 2-Room,2.1
+2020-07,Public Housing,3-Room,9.9
+2020-07,Public Housing,4-Room,31.1
+2020-07,Public Housing,5-Room and Executive,30.1
+2020-07,Private Housing,Private Apartments and Condominiums,23.6
+2020-07,Private Housing,Landed Properties,1.4
+2020-07,Others,Others,0.3
+2020-08,Public Housing,1-Room / 2-Room,1.7
+2020-08,Public Housing,3-Room,7.5
+2020-08,Public Housing,4-Room,23.4
+2020-08,Public Housing,5-Room and Executive,23
+2020-08,Private Housing,Private Apartments and Condominiums,20.9
+2020-08,Private Housing,Landed Properties,1.2
+2020-08,Others,Others,0.1
+2020-09,Public Housing,1-Room / 2-Room,1.7
+2020-09,Public Housing,3-Room,7.5
+2020-09,Public Housing,4-Room,21.8
+2020-09,Public Housing,5-Room and Executive,21
+2020-09,Private Housing,Private Apartments and Condominiums,20
+2020-09,Private Housing,Landed Properties,1.2
+2020-09,Others,Others,0.2
+2020-10,Public Housing,1-Room / 2-Room,1.6
+2020-10,Public Housing,3-Room,6.7
+2020-10,Public Housing,4-Room,20.5
+2020-10,Public Housing,5-Room and Executive,20
+2020-10,Private Housing,Private Apartments and Condominiums,19.1
+2020-10,Private Housing,Landed Properties,1.1
+2020-10,Others,Others,0.1
+2020-11,Public Housing,1-Room / 2-Room,1.6
+2020-11,Public Housing,3-Room,6.8
+2020-11,Public Housing,4-Room,20.7
+2020-11,Public Housing,5-Room and Executive,20
+2020-11,Private Housing,Private Apartments and Condominiums,19.4
+2020-11,Private Housing,Landed Properties,1.1
+2020-11,Others,Others,0.2
+2020-12,Public Housing,1-Room / 2-Room,1.6
+2020-12,Public Housing,3-Room,6.7
+2020-12,Public Housing,4-Room,20.3
+2020-12,Public Housing,5-Room and Executive,19.7
+2020-12,Private Housing,Private Apartments and Condominiums,19.2
+2020-12,Private Housing,Landed Properties,1.1
+2020-12,Others,Others,0.1
+2021-01,Public Housing,1-Room / 2-Room,1.6
+2021-01,Public Housing,3-Room,6.7
+2021-01,Public Housing,4-Room,20.6
+2021-01,Public Housing,5-Room and Executive,19.8
+2021-01,Private Housing,Private Apartments and Condominiums,20.2
+2021-01,Private Housing,Landed Properties,1.1
+2021-01,Others,Others,0.2
+2021-02,Public Housing,1-Room / 2-Room,1.6
+2021-02,Public Housing,3-Room,6.7
+2021-02,Public Housing,4-Room,20.9
+2021-02,Public Housing,5-Room and Executive,20.2
+2021-02,Private Housing,Private Apartments and Condominiums,20.8
+2021-02,Private Housing,Landed Properties,1.1
+2021-02,Others,Others,0.1
+2021-03,Public Housing,1-Room / 2-Room,1.6
+2021-03,Public Housing,3-Room,6.5
+2021-03,Public Housing,4-Room,20.1
+2021-03,Public Housing,5-Room and Executive,19.5
+2021-03,Private Housing,Private Apartments and Condominiums,19.7
+2021-03,Private Housing,Landed Properties,1.1
+2021-03,Others,Others,0.2
+2021-04,Public Housing,1-Room / 2-Room,1.6
+2021-04,Public Housing,3-Room,6.7
+2021-04,Public Housing,4-Room,20.6
+2021-04,Public Housing,5-Room and Executive,19.9
+2021-04,Private Housing,Private Apartments and Condominiums,19.3
+2021-04,Private Housing,Landed Properties,1.1
+2021-04,Others,Others,0.1
+2021-05,Public Housing,1-Room / 2-Room,1.6
+2021-05,Public Housing,3-Room,6.5
+2021-05,Public Housing,4-Room,20
+2021-05,Public Housing,5-Room and Executive,19.1
+2021-05,Private Housing,Private Apartments and Condominiums,18.5
+2021-05,Private Housing,Landed Properties,1.1
+2021-05,Others,Others,0.2
+2021-06,Public Housing,1-Room / 2-Room,1.7
+2021-06,Public Housing,3-Room,7
+2021-06,Public Housing,4-Room,21.7
+2021-06,Public Housing,5-Room and Executive,21.1
+2021-06,Private Housing,Private Apartments and Condominiums,19.6
+2021-06,Private Housing,Landed Properties,1.1
+2021-06,Others,Others,0.1
