@@ -1,66 +1,58 @@
 **Abstract**
 
-This study evaluates the efficacy of Facebook's Prophet algorithm for forecasting monthly gas consumption in Singapore's public housing sector, specifically 4-room Housing Development Board (HDB) flats. 
-The research implements a comparative analysis between models trained on complete historical data versus a dataset with pandemic-related outliers removed. 
-Performance metrics demonstrate that while both approaches yield high accuracy, outlier removal significantly enhances forecast precision. 
-The findings validate Prophet's robustness for time series forecasting in utilities consumption modeling, particularly when seasonal patterns and anomalous events are present.
+This study evaluates Facebook’s Prophet algorithm for forecasting monthly gas consumption in Singapore’s 4-room public housing (HDB) sector. This analysis demonstrates that retaining COVID-19-induced outliers in the dataset yields superior real-world forecasting performance compared to interquartile range (IQR) filtering. While both approaches achieved high accuracy (MAPE < 7%), the unfiltered model exhibited better generalization on test data containing pandemic-era anomalies. The research validates Prophet’s inherent robustness to extreme events while maintaining exceptional baseline accuracy, providing critical insights for utility planning under uncertain conditions.
 
 **Introduction**
 
-This research leverages publicly available time series data on Singapore's residential gas consumption, focusing specifically on 4-room public housing units (HDBs). 
-The longitudinal dataset spans from 2005 to 2022, capturing the monthly gas demand patterns across varying economic and social conditions, including the COVID-19 pandemic period. 
-The primary objective is to develop and evaluate a machine learning forecasting model capable of effectively capturing seasonal patterns while producing reliable demand projections for utility planning.
+Singapore’s residential gas demand forecasting faces unique challenges from urbanization trends and unexpected disruptions like COVID-19 lockdowns. This study analyzes 2005-2022 consumption data for 4-room HDB flats.
+The primary objectives are:
+1. Compare Prophet’s performance on raw vs outlier-filtered data
+2. Quantify model robustness to pandemic-scale anomalies
+3. Produce actionable 2030 demand projections for infrastructure planning
 
 **Methodology**
 
-_Data Preprocessing_
+_Data Handling
 
 The raw time series data exhibited clear upward trends and seasonal patterns with notable outliers during 2020-2021, coinciding with Singapore's COVID-19 lockdown periods. 
-These anomalous consumption patterns—reaching approximately 28-32 GWh compared to the typical range of 15-25 GWh—provided an opportunity to evaluate model performance under exceptional circumstances.
+Chronological 80/20 train-test split preserving temporal structure
+Dual pipeline implementation:
+- Unfiltered: Retains all data including COVID-19 outliers
+- IQR-filtered: Removes training set values beyond [25% and 75%]
 
-_Outlier Treatment_
+_Results_
 
-Employing interquartile range (IQR) methodology, outliers were systematically identified and removed from a parallel dataset to create two distinct training scenarios:
-1. Complete dataset including pandemic-period consumption anomalies
-2. Filtered dataset with outliers removed
+![image](https://github.com/user-attachments/assets/244efbc4-cf71-4b05-b3b7-dae32411b98f)
 
-_Model Implementation_
+Key Takeaways:
+1. Outlier Resilience: Prophet achieved 6.09% MAPE on unfiltered data despite COVID-19 anomalies, outperforming the filtered model. That said, both models outperformed industry standards for demand forecasting of ~10% to 20%
+2. Error Consistency: Both MAE and RMSE increased when using the filtered model, indicating that the filtered model is relatively less accurate.
+3. Biasness: Bias increased negatively as we used the filtered model. 
 
-Facebook's Prophet algorithm was selected for its demonstrated effectiveness in handling time series with:
-1. Strong seasonal components
-2. Missing data points
-3. Trend changes
-4. Outlier resilience
+**Why Retention Outperforms Filtering**
+1. Prophet’s Anomaly Handling: The multiplicative seasonality configuration automatically downweights extreme values through uncertainty interval expansion.
+2. Information Preservation: COVID-19 patterns contained valid demand signals about emergency response behaviors.
+3. Future-Proofing: Retained anomalies improve model readiness for similar disruptions.
 
-The model was configured with linear growth parameters and yearly seasonality components, then trained separately on both the complete and filtered datasets.
+**Conclusion and Future Work**
+This study establishes that Prophet delivers superior gas demand forecasts for Singapore’s HDB sector when retaining pandemic-era outliers, achieving:
+- Operational Accuracy: 6.09% MAPE on real-world test data
+- Strategic Value: Actionable 7-year projections with uncertainty bounds
 
-**Results**
+The step course of action would be to incorporate COVID-like events as explicit regressors. This would allow the model to make more decisive predictions.  
 
-Comprehensive evaluation metrics were calculated to assess forecast accuracy:
+**Charts from this analysis**
 
-![image](https://github.com/user-attachments/assets/31280e85-52aa-4b1d-b809-e9c91c7c2a8e)
+Raw Dataset:
+![image](https://github.com/user-attachments/assets/d5723f65-d41b-4385-8edf-88a4f01f6b18)
+
+Prophet Forecast with 80/20 Train/Test Split
+![image](https://github.com/user-attachments/assets/6882b9ee-402c-43c5-8d09-87a0e0d835a8)
+
+Prophet Forecast with 80/20 Train/Test Split with IQR Applied on Train Set
+![image](https://github.com/user-attachments/assets/d271fd30-fa58-4e20-a00c-4beb331eac15)
+
+Prophet Forecast for 4-Room HDB Gas Demand till 2030
+![image](https://github.com/user-attachments/assets/24e50eeb-e54f-4a07-ab75-80759b4d89b5)
 
 
-**Statistical Analysis**
-
-Both models demonstrated excellent predictive performance with MAPE values under 3%, significantly outperforming industry standards for demand forecasting (typically 10-20%). 
-However, several key observations emerged:
-
-- The notable divergence between MAE (0.55 GWh) and RMSE (1.08 GWh) in the complete dataset confirms the significant impact of outliers on model performance, as RMSE disproportionately penalizes large errors.
-- The filtered dataset exhibited minimal difference between MAE (0.34 GWh) and RMSE (0.46 GWh), indicating a more consistent error distribution without the influence of extreme values.
-- WMAPE analysis revealed that the model's performance degradation was more pronounced during high-demand periods when outliers were present (3.13% vs. 1.93%).
-- Both models maintained zero bias, demonstrating balanced error distribution without systematic over- or under-forecasting tendencies.
-
-**Discussion**
-
-The Prophet algorithm demonstrated exceptional forecasting capability for Singapore's residential gas consumption, with or without outlier treatment. 
-The model effectively captured both the long-term upward trend and seasonal fluctuations visible in the time series.
-When outliers were removed, the model achieved outstanding accuracy (MAPE: 1.88%), which represents a 35.2% improvement over the model trained on the complete dataset. 
-This substantial enhancement underscores the value of proper outlier management in time series forecasting applications, particularly when anomalous events (such as pandemic lockdowns) create temporary but significant deviations from established patterns.
-The negligible difference between MAE and RMSE in the filtered dataset confirms successful outlier elimination, resulting in more consistent and reliable predictions across the entire range of the forecast horizon.
-
-**Conclusion and Implications**
-This study demonstrates that Prophet's machine learning approach produces highly accurate forecasts for monthly gas consumption in Singapore's residential sector, with error metrics well below industry standards. 
-The research quantifies the specific benefits of outlier removal in improving forecast accuracy, providing a methodological framework for demand forecasting in utility planning.
-The findings have significant implications for energy resource allocation, infrastructure planning, and policy development. 
-Future research could extend this approach to other housing types or utilities, incorporate additional exogenous variables such as temperature or economic indicators, or explore ensemble methods to further enhance predictive performance.
